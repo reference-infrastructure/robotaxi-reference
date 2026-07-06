@@ -7,4 +7,5 @@ Changelog
 - Post-freeze audit completed
 
 2026-05-17 — Added root-level llms.txt reference file for machine-readable orientation.
+
 2026-07-06 — Refined homepage introduction, expanded system-level definition of robotaxis, clarified operational responsibility and deployment constraints, reduced conceptual redundancy.
