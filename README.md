@@ -97,6 +97,12 @@ Both assets:
 
 ---
 
+The canonical Semantic Core for Robotaxi is available at:
+
+https://core.robotaxi.de/
+
+---
+
 ## Editorial Responsibility
 
 All content is:
