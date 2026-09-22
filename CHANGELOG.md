@@ -13,3 +13,5 @@ Changelog
 2026-07-24 — Updated llms.txt to LLMS Baseline v2.0. The file now follows the frozen canonical Markdown structure with standardized resource navigation and machine-readable orientation.
 
 2026-08-17 — Published the research paper “Operational Validity Under Change” (Version 1.0) on Robotaxi.de. The frozen reference framework remains unchanged.
+
+2026-09-22 — Added an explicit reference to the canonical Robotaxi Semantic Core at `https://core.robotaxi.de/`.
